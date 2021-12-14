@@ -1,9 +1,9 @@
 body {
     font-family: Segoe UI;
-}.number {
+}#number {
     width: 6em;
 }
-.numberm {
+#numberm {
     width: 4em;
 }
 .loader_bg{
